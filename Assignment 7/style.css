@@ -8,16 +8,16 @@ h1, h2 {
     
     
     ul {
-    border: 2px solid orange;
+    border: 1px solid orange;
   }
   
   ol {
-    border: 2px solid green;
+    border: 1px solid green;
   }
   
   ol, ul {
-    padding: 5px 20px;
-    border-radius: 4px;
+    padding: 2px 20px;
+    border-radius: 2px;
   }
      
      
