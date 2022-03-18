@@ -1,9 +1,9 @@
 h1, h2 {
-  color: #3A3B3C ;
+  color: black;
 }
 
 p {
-  color: #6D6D6D;
+  color: black;
 }
   
   
@@ -22,10 +22,13 @@ ol, ul {
    
    
    h1, strong {
-  color: #3A3B3C;
+  color: balck;
 }
 
 em {
+  color: black;
+}
+li{
   color: black;
 }
 
@@ -36,7 +39,7 @@ body {
 .main-head {
   grid-area: header;
   background-color:  #FCBACB;
-  color: #3A3B3C;
+  color: black;
   border-radius: 5px;
   padding: 20px;
   font-size: 100%;
@@ -44,7 +47,7 @@ body {
 .content1 {
   grid-area: content1;
   background-color:  #FCBACB;
-  color: #3A3B3C;
+  color: balck;
   border-radius: 5px;
   padding: 20px;
   font-size: 100%;
@@ -53,7 +56,7 @@ body {
 .content2 {
   grid-area: content2;
   background-color:  #FCBACB;
-  color: #3A3B3C;
+  color: balck;
   border-radius: 5px;
   padding: 20px;
   font-size: 100%;
@@ -62,7 +65,7 @@ body {
 .content3 {
   grid-area: content3;
   background-color:  #FCBACB;
-  color: #3A3B3C;
+  color: balck;
   border-radius: 5px;
   padding: 20px;
   font-size: 100%;
@@ -70,7 +73,7 @@ body {
 .main-nav {
   grid-area: nav;
   background-color:  #FCBACB;
-  color: #3A3B3C;
+  color: balck;
   padding: 20px;
   font-size: 100%;
 }
